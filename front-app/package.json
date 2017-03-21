@@ -1,0 +1,28 @@
+{
+  "name": "asiel-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emanuel-Agapie/test-repo.git"
+  },
+  "keywords": [
+    "store"
+  ],
+  "author": "ProAngularDudes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emanuel-Agapie/test-repo/issues"
+  },
+  "homepage": "https://github.com/Emanuel-Agapie/test-repo#readme",
+  "dependencies": {
+    "angular": "^1.6.3"
+  }
+}
